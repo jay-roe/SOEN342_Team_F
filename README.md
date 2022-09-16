@@ -1,4 +1,4 @@
-# SOEN342_template
+# SOEN342 Team F (Michael's team <3)
 
 ## Project Description
 Creating an E-learning platform
@@ -14,5 +14,6 @@ Features of the platform
 - tool 2
 
 ## Team members
-- Ahmed Rebei @ahmedrebei
-- person @person
+- 40128691 Jacques-Andre Roebuck
+- 40170491 Michael Roubeiz 
+- 40177141 Aida Berhe-Negousse 
