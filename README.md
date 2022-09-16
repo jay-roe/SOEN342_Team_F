@@ -17,3 +17,4 @@ Features of the platform
 - 40128691 Jacques-Andre Roebuck
 - 40170491 Michael Roubeiz 
 - 40177141 Aida Berhe-Negousse 
+- 40170314 Anjali Bhardwaj 
