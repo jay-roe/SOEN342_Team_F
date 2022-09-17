@@ -18,3 +18,6 @@ Features of the platform
 - 40170491 Michael Roubeiz 
 - 40177141 Aida Berhe-Negousse 
 - 40170314 Anjali Bhardwaj 
+- 40131285 Julian Lussier
+- 40182167 Melisa Panaccione 
+- 40121035 Shivam Veerabudren
