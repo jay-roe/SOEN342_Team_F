@@ -21,3 +21,4 @@ Features of the platform
 - 40131285 Julian Lussier @TheDude957
 - 40182167 Melisa Panaccione 
 - 40121035 Shivam Veerabudren
+- 40133814 Julien Phan
