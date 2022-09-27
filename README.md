@@ -9,6 +9,41 @@ The objective of this project is to create a tutoring website which will contain
 ## features
 Features of the platform
 
+1. List of tutors
+  - ads/introductory videos
+  - hourly rates
+  - calendar with availability for one-on-one or group tutoring 
+  
+2. Forum for group courses
+  - post questions/answers
+  
+3. Direct Messaging
+  - student-to-tutors
+
+4. Account creation
+  - student
+  - parents 
+  - tutor
+    - access to internal curriculum and documents for all courses
+    - send and correct online quizzes
+    - create ads
+    
+ 5. Guest features
+   - sit in a live lecture
+   - Restricted access to the forum/QA
+   - Request to be a tutor
+   
+ 6. Student profile page
+   - access to quizzes 
+   - show their progess
+   - access to additional resources (online calculator, practice documents,etc.) 
+  
+ 7. Admin features
+  - Group learning chatroom moderation
+  - Tutor verification
+  - Payment security 
+     
+
 ## Tools and Techniques
 - technique 1
 - tool 2
