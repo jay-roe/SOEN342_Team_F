@@ -57,3 +57,4 @@ Features of the platform
 - 40182167 Melisa Panaccione - melisa1026
 - 40121035 Shivam Veerabudren - Shiv2205
 - 40133814 Julien Phan - MrMelon1232
+- 40132982 Elion Abdyli - elion-abdyli
