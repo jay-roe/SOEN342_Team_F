@@ -49,7 +49,7 @@ Features of the platform
 - tool 2
 
 ## Team members
-- 40128691 Jacques-Andre Roebuck - 
+- 40128691 Jacques-Andre Roebuck - JR-prog
 - 40170491 Michael Roubeiz - mikeflof
 - 40177141 Aida Berhe-Negousse - aberhenegousse
 - 40170314 Anjali Bhardwaj - AnjaliBhardwaj1
