@@ -1,4 +1,4 @@
-# SOEN342 Team F (Michael's team <3)
+# SOEN342 Team F - A+ Academy
 
 ## Project Description
 Developing an E-learning platform tailored to the students’ objectives, and which gives tutors freedom over their availability and hourly rates.
