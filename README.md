@@ -6,7 +6,7 @@ Developing an E-learning platform tailored to the students’ objectives, and wh
 ## Objective
 The objective of this project is to create a tutoring website which will contain the core features listed below, along with new and unique features determined by the team. Our goal is that the students, or students’ parents, be able to choose a tutor with whom they feel most comfortable to ensure the best learning experience. Moreover, our team aims at creating a platform where tutors have freedom over: their schedules, online classrooms, teaching methods, salary, and more. 
 
-## features
+## Features
 Features of the platform
 
 1. List of tutors
