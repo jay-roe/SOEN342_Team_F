@@ -43,11 +43,6 @@ Features of the platform
   - Tutor verification
   - Payment security 
      
-
-## Tools and Techniques
-- technique 1
-- tool 2
-
 ## Team members
 - 40128691 Jacques-Andre Roebuck - JR-prog
 - 40170491 Michael Roubeiz - mikeflof
